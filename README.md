@@ -6,7 +6,7 @@ You might want to see my [LinkedIn](https://www.linkedin.com/in/luissergiomoura)
 
 - 💬 Ask me about anything go, javascript or postgresql
 - 📫 You can find ways to reach me on my [Personal Page](https://sergio.moura.ca) -- don't worry, there are no ads there
-- ⚡ Things I love: **Movies**, **Moonrakers**, **3D Modelling**, **Single-Pan Cast Iron Recipes**, **Magic: The Gathering**, **Monster Hunter** and **Final Fantasy XIV**
+- ⚡ Things I love: **Movies**, **Path of Exile**, **Comic Books**, **3D Modelling**, **Single-Pan Cast Iron Recipes**, **Magic: The Gathering**, **Monster Hunter** and **Final Fantasy XIV**
 - 👯 Feel free to hit me up if you need help or reviews on any Pull Requests on any technologies listed above
 
 <!--
